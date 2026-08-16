@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class EXERCICIO_METODO3 {
 
-    // O parâmetro do método é o número inserido pelo usuário
+    
     static void exibirSequencia(int numero) {
         System.out.println("Número informado: " + numero);
         System.out.println("Os 20 números seguintes são:");
