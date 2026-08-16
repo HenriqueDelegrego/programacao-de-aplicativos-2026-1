@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class EXERCICIO_METODO6 {
 
-    // Método que gera o nome Star Wars
+    
     static String generateStarWarsName(String primeiroNome, String sobrenome, String sobrenomeMae, String cidadeNatal) {
         // Primeiro nome Star Wars: 3 primeiras letras do sobrenome + 2 primeiras letras do primeiro nome
         String primeiroNomeSW = sobrenome.substring(0, 3) + primeiroNome.substring(0, 2);
