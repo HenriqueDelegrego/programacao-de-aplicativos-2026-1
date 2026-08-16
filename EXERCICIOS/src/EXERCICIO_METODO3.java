@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class EXERCICIO_METODO3 {
 
-    
+
     static void exibirSequencia(int numero) {
         System.out.println("Número informado: " + numero);
         System.out.println("Os 20 números seguintes são:");
