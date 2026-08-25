@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class exemplo {
+
+    // O metodo main é onde o programa começa a ser executado
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        // 1. Chamando o metodo e guardando o resultado em uma variável chamada 'resultadoSoma'
+        double resultadoSoma = somarNumeros(2, 10);
+        System.out.println(resultadoSoma); // Agora vai imprimir 12.0
+
+        // 2. Chamando o metodo direto dentro do Println
+        System.out.println(somarNumeros(2, 5)); // Vai imprimir 7.0
+
+        sc.close();
+    }
+
+    //
+    public static double somarNumeros(double num1, double num2) {
+        double soma = num1 + num2;
+        return soma;
+    }
+}
