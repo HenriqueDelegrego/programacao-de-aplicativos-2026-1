@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mês 08 - Agosto/Mês 08 - Agosto.iml" filepath="$PROJECT_DIR$/Mês 08 - Agosto/Mês 08 - Agosto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exer_metodos/exer_metodos.iml" filepath="$PROJECT_DIR$/exer_metodos/exer_metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_poo/exercicios_poo.iml" filepath="$PROJECT_DIR$/exercicios_poo/exercicios_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo_parametro/metodo_parametro.iml" filepath="$PROJECT_DIR$/metodo_parametro/metodo_parametro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos_retorno/metodos_retorno.iml" filepath="$PROJECT_DIR$/metodos_retorno/metodos_retorno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pedro-hoffmann.iml" filepath="$PROJECT_DIR$/pedro-hoffmann.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste1/teste1.iml" filepath="$PROJECT_DIR$/teste1/teste1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/veiculo/veiculo.iml" filepath="$PROJECT_DIR$/veiculo/veiculo.iml" />
+    </modules>
+  </component>
+</project>
