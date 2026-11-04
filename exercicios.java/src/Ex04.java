@@ -28,12 +28,5 @@ public class Ex04 {
         l1.adicionarProduto(p4);
         l1.adicionarProduto(p5);
 
-
-        System.out.println(p1);
-        System.out.println(p2);
-        System.out.println(p3);
-        System.out.println(p4);
-        System.out.println(p5);
-
     }
 }
