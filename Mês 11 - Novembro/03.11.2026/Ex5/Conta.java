@@ -1,4 +1,5 @@
 public class Conta {
+
 	private String nomeTitular;
 	private double saldo;
 
@@ -40,9 +41,7 @@ public class Conta {
 
 		/*
 		 * Comunicação entre objetos: Aqui, o objeto atual modifica diretamente o estado
-		 * interno do objeto 'contadestino'. Nota de boa prática: A linha comentada
-		 * acima (.depositarValor) seria mais adequada, pois respeitaria o
-		 * encapsulamento, deixando o próprio objeto destino gerenciar seu saldo.
+		 * interno do objeto 'contadestino'.
 		 */
 		contaDestino.saldo += v;
 	}
