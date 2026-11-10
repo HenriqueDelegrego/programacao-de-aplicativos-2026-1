@@ -1,6 +1,6 @@
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IllegalAccessException {
         Conta conta1 = new Conta("Pedro Hoffmann", 1550);
         Conta conta2 = new Conta("Anna Beatriz Hackbarth", 104200);
 
