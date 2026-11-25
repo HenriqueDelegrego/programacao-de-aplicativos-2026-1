@@ -1,5 +1,6 @@
 
 import java.time.LocalDate;
+import java.time.Period;
 
 //  (Classe): Define o molde/estrutura para criar objetos do tipo Pessoa.
 public class Pessoa {
@@ -23,6 +24,10 @@ public class Pessoa {
 	// acesso e a modificação dos atributos privados.
 	public String getNome() {
 		return nome;
+	}
+
+	public int obterIdade() {
+		return Period.between(dataNascimento, LocalDate.now()).getYears();
 	}
 
 	public void setNome(String nome) {
